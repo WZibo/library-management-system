@@ -1,4 +1,5 @@
-Library management system based on vue+mysql+node+express+elementui
+Library management system based on 
+vue + mysql + node + express + elementui
 
 Start method:
 
